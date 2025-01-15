@@ -11,7 +11,3 @@ Este repositorio contiene scripts creados para realizar análisis de teledetecci
 1. Abre Google Earth Engine.
 2. Copia y pega el contenido del archivo `timelapse_modis.js`.
 3. Ejecuta el script para generar el timelapse.
-
-## Vista previa del timelapse
-
-![Timelapse Example](https://via.placeholder.com/600x300.png)
